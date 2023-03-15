@@ -1,15 +1,19 @@
-h2.intro {
-    text-decoration:underline;
-    }
-p.intro {
-    color:aqua;
-    font-family:'Times New Roman'; 
+div.intro{
+    width: 400px;
+    height:px;
 }
-img.intro {width: 400px;
-    height: 320px}
 
 #one {font-size: larger;
     color: brown
 }
 
-    span
+    div {color: chocolate;
+    }
+
+    span.wrestling-moves{
+        color:green;
+    }
+    #img {
+        width: 500px;
+        height: 300px;
+    }
