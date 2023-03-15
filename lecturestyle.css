@@ -1,0 +1,15 @@
+h2.intro {
+    text-decoration:underline;
+    }
+p.intro {
+    color:aqua;
+    font-family:'Times New Roman'; 
+}
+img.intro {width: 400px;
+    height: 320px}
+
+#one {font-size: larger;
+    color: brown
+}
+
+    span
